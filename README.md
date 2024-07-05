@@ -3,15 +3,17 @@
 
 The TODO Application is a simple task management tool designed to help users organize their daily tasks, prioritize work, and improve productivity. Whether you're managing personal tasks, planning projects, or coordinating team activities, this app provides a streamlined interface for creating, updating, and tracking tasks efficiently.
 
-## Table of Contents
-- [Installation](#run npm start)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
-Setup this code in VS code and then Run Commands 1.#cd ./simple-todo-app 2.#npm install 3.#npm start 
+## Setup this code in VS code and then Run Commands
+
+commands:
+```
+cd ./simple-todo-app
+npm install
+npm start
+```
 
 
 Getting Started with Create React App
